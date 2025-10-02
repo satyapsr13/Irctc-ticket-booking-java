@@ -1,0 +1,57 @@
+[
+  {
+    "user_id": "123",
+    "name": "Satya",
+    "hashed_password": "12234",
+    "tickets_booked": [
+      {
+        "source": "Banglore",
+        "destination": "Delhi",
+        "date_of_trevel": "2030-09-09T18:20:00Z",
+        "train": {
+          "train_id": "231",
+          "train_no": 1234,
+          "seats": [
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ],
+            [
+              0,
+              0,
+              0,
+              0,
+              0,
+              0
+            ]
+          ],
+          "stations": {
+            "Banglore": "13:30:00",
+            "Jaipur": "15:30:00",
+            "Delhi": "23:30:00"
+          }
+        }
+      }
+    ]
+  }
+]
